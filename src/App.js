@@ -1,3 +1,4 @@
+import './App.css'
 import InputBox from './Components/InputBox';
 
 function App() {
